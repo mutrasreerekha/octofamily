@@ -66,3 +66,22 @@ git add "*.txt"
 git commit-m "second commit"
 git commit  "second commit"
 git commit -m  "second commit"
+clear
+git init
+git commit -m "first commit"
+git add .
+git status
+git commit -m "all will be commit"
+git config --global user.name "mutrasreerekha"
+git config --global user.email "mutrasreerekha@gmail.com"
+git commit -m "all commit"
+git add .
+git commit -m "all commit"
+git status
+git /root/git
+git --help
+git help init
+git help status
+git help merge
+git init
+ls /root/.git
